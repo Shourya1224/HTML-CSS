@@ -1,0 +1,9 @@
+.one{
+    
+    height:80px;
+    width:80px;
+   }
+
+#parent:hover .one{
+    transform: rotate(180deg);
+}

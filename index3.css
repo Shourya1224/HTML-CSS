@@ -1,0 +1,44 @@
+#parent{
+    border:2px solid red;
+    height: 400px;
+
+}
+
+.one{
+    height:80px;
+    width:80px;
+    transition:3s;
+}
+
+ 
+
+#parent:hover .one{
+    margin-left:1421px;
+   
+    transform:rotate(150deg);
+
+
+}
+
+
+
+#one{
+    background-color: darkred;
+    transition-timing-function: ease-in;
+}
+#two{
+    background-color: aqua;
+ 
+
+    transition-timing-function: ease-out;
+}
+#three{
+    background-color: darkorange;
+    transition-timing-function: ease-in-out;
+
+}
+#four{
+    background-color: blue;
+    transition-timing-function: ease-out;
+}
+
