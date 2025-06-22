@@ -1,0 +1,47 @@
+h3{
+
+
+    margin: 0px;
+    padding: 0px; 
+}
+
+
+
+
+h3{
+    margin-left: 60px;
+
+}
+h3:{
+    
+    color: white ;
+
+
+}
+
+#child-div{
+    display:flex;
+    width: 300px;
+    /*background-color: blue;*/
+    justify-content : space-between;
+
+}
+
+#child-div{
+    color :gold;
+
+}
+button{
+    margin-right:60px;
+    background-color: gold;
+
+
+}
+
+
+
+
+
+
+
+
